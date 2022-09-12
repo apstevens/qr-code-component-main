@@ -1,2 +1,2 @@
-# qr-code-component-main
+# Create a custom QR code for Desktop and mobile
  
